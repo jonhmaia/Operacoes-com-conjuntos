@@ -129,7 +129,6 @@ Qual operação deseja realizar?
 
 Desenvolvido por **João Marcos Araújo Maia**  
 Estudante de Ciência da Computação - UFG  
-Estagiária em Software Engineering na BigDataCorp  
 🔗 [LinkedIn](https://www.linkedin.com/in/joaomarcosmaia) | 🌐 [Portfólio](https://joaomarcos.dev.br)
 
 ---
